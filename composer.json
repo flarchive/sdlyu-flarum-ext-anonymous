@@ -1,0 +1,40 @@
+{
+    "name": "sdlyu/flarum-ext-anonymous",
+    "description": "Anonymous post support",
+    "type": "flarum-extension",
+    "keywords": ["flarum", "anonymous"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SDLyu",
+            "email": "dragon90321@gmail.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/SDLyu/flarum-ext-anonymous/issues",
+        "source": "https://github.com/SDLyu/flarum-ext-anonymous"
+    },
+    "require": {
+        "php": ">=5.3.0",
+        "flarum/core": "^0.1.0-beta.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sdlyu\\Anonymous\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-develop": "dev-master"
+        },
+        "flarum-extension": {
+            "title": "Anonymous",
+            "icon": {
+                "name": "commenting-o",
+                "backgroundColor": "#EE8208",
+                "color": "#fff"
+            }
+        }
+    },
+    "minimum-stability": "dev"
+}
