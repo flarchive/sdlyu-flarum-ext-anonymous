@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of sdlyu/flarum-ext-anonymous.** Not for installation: use [Packagist](https://packagist.org/packages/sdlyu/flarum-ext-anonymous) or the [upstream repository](https://github.com/SDLyu/flarum-ext-anonymous).
 
-**0** versions archived · Latest: [`v0.1.0`](https://github.com/flarchive/sdlyu-flarum-ext-anonymous/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.6`
+**1** versions archived · Latest: [`v0.1.0`](https://github.com/flarchive/sdlyu-flarum-ext-anonymous/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2017-02-18 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/sdlyu-flarum-ext-anonymous/tree/archive/v0.1.0) |
 
 Catalog entry: [packages/sdlyu-flarum-ext-anonymous.json](https://github.com/flarchive/archive-index/blob/main/packages/sdlyu-flarum-ext-anonymous.json)
 
